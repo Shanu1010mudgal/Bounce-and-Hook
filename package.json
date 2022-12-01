@@ -1,0 +1,22 @@
+{
+    "name": "handy_32cakes_32_40bounce_32and_32hook_41",
+    "displayName": "Handy Cakes (Bounce and hook)",
+    "version": "1.0.0",
+    "description": "Handy Cakes (Bounce and hook)",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "ecosystem:cordova"
+    ],
+    "author": "",
+    "devDependencies": {
+        "cordova-plugin-ionic-webview": "5.0.0"
+    },
+    "cordova": {
+        "plugins": {
+            "cordova-plugin-ionic-webview": {}
+        }
+    }
+}
